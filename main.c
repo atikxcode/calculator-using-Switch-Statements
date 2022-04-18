@@ -43,6 +43,8 @@ case '/' :
 case '%' :
     printf("%d", num1 % num2);
     break;
+    case '^':
+        printf("%d", pow(num1, num2);
 
     default:
         printf("Wrong mathematical operation.. Try again.\n");
