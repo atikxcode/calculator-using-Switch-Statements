@@ -45,6 +45,7 @@ case '%' :
     break;
     case '^':
         printf("%d", pow(num1, num2);
+               break;
 
     default:
         printf("Wrong mathematical operation.. Try again.\n");
